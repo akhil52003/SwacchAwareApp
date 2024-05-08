@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722982048001",
+    "project_id": "swacchabh",
+    "storage_bucket": "swacchabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722982048001:android:bbdd88daff9c72c8f84b00",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ju_OxTrr_Sg4dwhJfe942BqypRagMmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
